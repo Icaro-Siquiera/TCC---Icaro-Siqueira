@@ -2,7 +2,7 @@
 Este repositório apresenta o desenvolvimento de um painel de automação industrial para testes de instrumentos de controle, realizado como trabalho de conclusão do curso de Engenharia Elétrica no Centro Universitário Hermínio Ometto.
 ## 📌 Sobre o Projeto
 O projeto foi desenvolvido por minha autoria e implementado na minha área de atuação que é de  intrumentação industrial, com o intuito de:
-#### ✅ Testar e garantir a funcionaliade dos intrumentos.
+#### ✅ Testar e garantir a funcionaliade dos instrumentos.
 #### ✅ Capacitação de profissionais na área de instrumentação e automação.
 #### ✅ Proporcionar mais segurança às pessoas.
 #### 📍 Usina termoelétrica produtora de açúcar e álcool, com coogeração de energia elétrica, situada na cidade de Leme/SP. 
